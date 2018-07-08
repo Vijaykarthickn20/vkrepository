@@ -5,7 +5,6 @@
 	<groupId>com.vk</groupId>
 	<artifactId>pm</artifactId>
 	<name>pm</name>
-	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>1.6</java-version>
@@ -155,4 +154,5 @@
             </plugin>
         </plugins>
     </build>
+    <packaging>war</packaging>
 </project>
